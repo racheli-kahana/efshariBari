@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="RecepiesModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Measures">
+    <Key>
+      <PropertyRef Name="kodmida" />
+    </Key>
+    <Property Name="idmida" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="kodmida" Type="int" Nullable="false" />
+    <Property Name="shmmida" Type="varchar" MaxLength="40" />
+  </EntityType>
+  <EntityType Name="products">
+    <Key>
+      <PropertyRef Name="code" />
+    </Key>
+    <Property Name="idprod" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="code" Type="int" Nullable="false" />
+    <Property Name="smlmitrach" Type="int" />
+    <Property Name="shmmitzrach" Type="varchar" MaxLength="60" />
+    <Property Name="protein" Type="float" />
+    <Property Name="total_fat" Type="float" />
+    <Property Name="food_energy" Type="float" />
+    <Property Name="carbohydrates" Type="float" />
+    <Property Name="total_dieatry_fiber" Type="float" />
+    <Property Name="calcium" Type="float" />
+    <Property Name="iron" Type="float" />
+    <Property Name="total_sugars" Type="float" />
+    <Property Name="trans_fatty_acids" Type="float" />
+    <Property Name="magnesium" Type="float" />
+    <Property Name="phosphours" Type="float" />
+    <Property Name="potassium" Type="float" />
+    <Property Name="sodium" Type="float" />
+    <Property Name="zinc" Type="float" />
+    <Property Name="cholesterol" Type="float" />
+    <Property Name="saturated_fat" Type="float" />
+    <Property Name="vitamin_a_ui" Type="float" />
+    <Property Name="vitamin_e" Type="float" />
+    <Property Name="vitamin_c" Type="float" />
+    <Property Name="vitamin_a_re" Type="float" />
+    <Property Name="vitamin_k" Type="float" />
+    <Property Name="vitamin_b6" Type="float" />
+    <Property Name="vitamin_b12" Type="float" />
+    <Property Name="vitamin_d" Type="float" />
+  </EntityType>
+  <EntityType Name="Weights">
+    <Key>
+      <PropertyRef Name="idmishkal" />
+    </Key>
+    <Property Name="idmishkal" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="codemitzrach" Type="int" />
+    <Property Name="kodmidaa" Type="int" />
+    <Property Name="mishkal" Type="float" />
+  </EntityType>
+  <Association Name="FK__Weights__codemit__276EDEB3">
+    <End Role="products" Type="Self.products" Multiplicity="0..1" />
+    <End Role="Weights" Type="Self.Weights" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="products">
+        <PropertyRef Name="code" />
+      </Principal>
+      <Dependent Role="Weights">
+        <PropertyRef Name="codemitzrach" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Weights__kodmida__286302EC">
+    <End Role="Measures" Type="Self.Measures" Multiplicity="0..1" />
+    <End Role="Weights" Type="Self.Weights" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Measures">
+        <PropertyRef Name="kodmida" />
+      </Principal>
+      <Dependent Role="Weights">
+        <PropertyRef Name="kodmidaa" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="RecepiesModelStoreContainer">
+    <EntitySet Name="Measures" EntityType="Self.Measures" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="products" EntityType="Self.products" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Weights" EntityType="Self.Weights" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__Weights__codemit__276EDEB3" Association="Self.FK__Weights__codemit__276EDEB3">
+      <End Role="products" EntitySet="products" />
+      <End Role="Weights" EntitySet="Weights" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Weights__kodmida__286302EC" Association="Self.FK__Weights__kodmida__286302EC">
+      <End Role="Measures" EntitySet="Measures" />
+      <End Role="Weights" EntitySet="Weights" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="RecepiesModelStoreContainer" CdmEntityContainer="RecepiesEntities">
+    <EntitySetMapping Name="Measures">
+      <EntityTypeMapping TypeName="RecepiesModel.Measure">
+        <MappingFragment StoreEntitySet="Measures">
+          <ScalarProperty Name="idmida" ColumnName="idmida" />
+          <ScalarProperty Name="kodmida" ColumnName="kodmida" />
+          <ScalarProperty Name="shmmida" ColumnName="shmmida" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="products">
+      <EntityTypeMapping TypeName="RecepiesModel.product">
+        <MappingFragment StoreEntitySet="products">
+          <ScalarProperty Name="idprod" ColumnName="idprod" />
+          <ScalarProperty Name="code" ColumnName="code" />
+          <ScalarProperty Name="smlmitrach" ColumnName="smlmitrach" />
+          <ScalarProperty Name="shmmitzrach" ColumnName="shmmitzrach" />
+          <ScalarProperty Name="protein" ColumnName="protein" />
+          <ScalarProperty Name="total_fat" ColumnName="total_fat" />
+          <ScalarProperty Name="food_energy" ColumnName="food_energy" />
+          <ScalarProperty Name="carbohydrates" ColumnName="carbohydrates" />
+          <ScalarProperty Name="total_dieatry_fiber" ColumnName="total_dieatry_fiber" />
+          <ScalarProperty Name="calcium" ColumnName="calcium" />
+          <ScalarProperty Name="iron" ColumnName="iron" />
+          <ScalarProperty Name="total_sugars" ColumnName="total_sugars" />
+          <ScalarProperty Name="trans_fatty_acids" ColumnName="trans_fatty_acids" />
+          <ScalarProperty Name="magnesium" ColumnName="magnesium" />
+          <ScalarProperty Name="phosphours" ColumnName="phosphours" />
+          <ScalarProperty Name="potassium" ColumnName="potassium" />
+          <ScalarProperty Name="sodium" ColumnName="sodium" />
+          <ScalarProperty Name="zinc" ColumnName="zinc" />
+          <ScalarProperty Name="cholesterol" ColumnName="cholesterol" />
+          <ScalarProperty Name="saturated_fat" ColumnName="saturated_fat" />
+          <ScalarProperty Name="vitamin_a_ui" ColumnName="vitamin_a_ui" />
+          <ScalarProperty Name="vitamin_e" ColumnName="vitamin_e" />
+          <ScalarProperty Name="vitamin_c" ColumnName="vitamin_c" />
+          <ScalarProperty Name="vitamin_a_re" ColumnName="vitamin_a_re" />
+          <ScalarProperty Name="vitamin_k" ColumnName="vitamin_k" />
+          <ScalarProperty Name="vitamin_b6" ColumnName="vitamin_b6" />
+          <ScalarProperty Name="vitamin_b12" ColumnName="vitamin_b12" />
+          <ScalarProperty Name="vitamin_d" ColumnName="vitamin_d" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Weights">
+      <EntityTypeMapping TypeName="RecepiesModel.Weight">
+        <MappingFragment StoreEntitySet="Weights">
+          <ScalarProperty Name="idmishkal" ColumnName="idmishkal" />
+          <ScalarProperty Name="codemitzrach" ColumnName="codemitzrach" />
+          <ScalarProperty Name="kodmidaa" ColumnName="kodmidaa" />
+          <ScalarProperty Name="mishkal" ColumnName="mishkal" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

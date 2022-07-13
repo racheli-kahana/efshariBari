@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="RecepiesModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Measures">
+          <Key>
+            <PropertyRef Name="kodmida" />
+          </Key>
+          <Property Name="idmida" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="kodmida" Type="int" Nullable="false" />
+          <Property Name="shmmida" Type="varchar" MaxLength="40" />
+        </EntityType>
+        <EntityType Name="products">
+          <Key>
+            <PropertyRef Name="code" />
+          </Key>
+          <Property Name="idprod" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="code" Type="int" Nullable="false" />
+          <Property Name="smlmitrach" Type="int" />
+          <Property Name="shmmitzrach" Type="varchar" MaxLength="60" />
+          <Property Name="protein" Type="float" />
+          <Property Name="total_fat" Type="float" />
+          <Property Name="food_energy" Type="float" />
+          <Property Name="carbohydrates" Type="float" />
+          <Property Name="total_dieatry_fiber" Type="float" />
+          <Property Name="calcium" Type="float" />
+          <Property Name="iron" Type="float" />
+          <Property Name="total_sugars" Type="float" />
+          <Property Name="trans_fatty_acids" Type="float" />
+          <Property Name="magnesium" Type="float" />
+          <Property Name="phosphours" Type="float" />
+          <Property Name="potassium" Type="float" />
+          <Property Name="sodium" Type="float" />
+          <Property Name="zinc" Type="float" />
+          <Property Name="cholesterol" Type="float" />
+          <Property Name="saturated_fat" Type="float" />
+          <Property Name="vitamin_a_ui" Type="float" />
+          <Property Name="vitamin_e" Type="float" />
+          <Property Name="vitamin_c" Type="float" />
+          <Property Name="vitamin_a_re" Type="float" />
+          <Property Name="vitamin_k" Type="float" />
+          <Property Name="vitamin_b6" Type="float" />
+          <Property Name="vitamin_b12" Type="float" />
+          <Property Name="vitamin_d" Type="float" />
+        </EntityType>
+        <EntityType Name="Weights">
+          <Key>
+            <PropertyRef Name="idmishkal" />
+          </Key>
+          <Property Name="idmishkal" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="codemitzrach" Type="int" />
+          <Property Name="kodmidaa" Type="int" />
+          <Property Name="mishkal" Type="float" />
+        </EntityType>
+        <Association Name="FK__Weights__codemit__276EDEB3">
+          <End Role="products" Type="Self.products" Multiplicity="0..1" />
+          <End Role="Weights" Type="Self.Weights" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="products">
+              <PropertyRef Name="code" />
+            </Principal>
+            <Dependent Role="Weights">
+              <PropertyRef Name="codemitzrach" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__Weights__kodmida__286302EC">
+          <End Role="Measures" Type="Self.Measures" Multiplicity="0..1" />
+          <End Role="Weights" Type="Self.Weights" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Measures">
+              <PropertyRef Name="kodmida" />
+            </Principal>
+            <Dependent Role="Weights">
+              <PropertyRef Name="kodmidaa" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="RecepiesModelStoreContainer">
+          <EntitySet Name="Measures" EntityType="Self.Measures" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="products" EntityType="Self.products" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Weights" EntityType="Self.Weights" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK__Weights__codemit__276EDEB3" Association="Self.FK__Weights__codemit__276EDEB3">
+            <End Role="products" EntitySet="products" />
+            <End Role="Weights" EntitySet="Weights" />
+          </AssociationSet>
+          <AssociationSet Name="FK__Weights__kodmida__286302EC" Association="Self.FK__Weights__kodmida__286302EC">
+            <End Role="Measures" EntitySet="Measures" />
+            <End Role="Weights" EntitySet="Weights" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="RecepiesModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Measure">
+          <Key>
+            <PropertyRef Name="kodmida" />
+          </Key>
+          <Property Name="idmida" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="kodmida" Type="Int32" Nullable="false" />
+          <Property Name="shmmida" Type="String" MaxLength="40" FixedLength="false" Unicode="false" />
+          <NavigationProperty Name="Weights" Relationship="Self.FK__Weights__kodmida__286302EC" FromRole="Measures" ToRole="Weights" />
+        </EntityType>
+        <EntityType Name="product">
+          <Key>
+            <PropertyRef Name="code" />
+          </Key>
+          <Property Name="idprod" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="code" Type="Int32" Nullable="false" />
+          <Property Name="smlmitrach" Type="Int32" />
+          <Property Name="shmmitzrach" Type="String" MaxLength="60" FixedLength="false" Unicode="false" />
+          <Property Name="protein" Type="Double" />
+          <Property Name="total_fat" Type="Double" />
+          <Property Name="food_energy" Type="Double" />
+          <Property Name="carbohydrates" Type="Double" />
+          <Property Name="total_dieatry_fiber" Type="Double" />
+          <Property Name="calcium" Type="Double" />
+          <Property Name="iron" Type="Double" />
+          <Property Name="total_sugars" Type="Double" />
+          <Property Name="trans_fatty_acids" Type="Double" />
+          <Property Name="magnesium" Type="Double" />
+          <Property Name="phosphours" Type="Double" />
+          <Property Name="potassium" Type="Double" />
+          <Property Name="sodium" Type="Double" />
+          <Property Name="zinc" Type="Double" />
+          <Property Name="cholesterol" Type="Double" />
+          <Property Name="saturated_fat" Type="Double" />
+          <Property Name="vitamin_a_ui" Type="Double" />
+          <Property Name="vitamin_e" Type="Double" />
+          <Property Name="vitamin_c" Type="Double" />
+          <Property Name="vitamin_a_re" Type="Double" />
+          <Property Name="vitamin_k" Type="Double" />
+          <Property Name="vitamin_b6" Type="Double" />
+          <Property Name="vitamin_b12" Type="Double" />
+          <Property Name="vitamin_d" Type="Double" />
+          <NavigationProperty Name="Weights" Relationship="Self.FK__Weights__codemit__276EDEB3" FromRole="products" ToRole="Weights" />
+        </EntityType>
+        <EntityType Name="Weight">
+          <Key>
+            <PropertyRef Name="idmishkal" />
+          </Key>
+          <Property Name="idmishkal" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="codemitzrach" Type="Int32" />
+          <Property Name="kodmidaa" Type="Int32" />
+          <Property Name="mishkal" Type="Double" />
+          <NavigationProperty Name="Measure" Relationship="Self.FK__Weights__kodmida__286302EC" FromRole="Weights" ToRole="Measures" />
+          <NavigationProperty Name="product" Relationship="Self.FK__Weights__codemit__276EDEB3" FromRole="Weights" ToRole="products" />
+        </EntityType>
+        <Association Name="FK__Weights__kodmida__286302EC">
+          <End Role="Measures" Type="Self.Measure" Multiplicity="0..1" />
+          <End Role="Weights" Type="Self.Weight" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Measures">
+              <PropertyRef Name="kodmida" />
+            </Principal>
+            <Dependent Role="Weights">
+              <PropertyRef Name="kodmidaa" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__Weights__codemit__276EDEB3">
+          <End Role="products" Type="Self.product" Multiplicity="0..1" />
+          <End Role="Weights" Type="Self.Weight" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="products">
+              <PropertyRef Name="code" />
+            </Principal>
+            <Dependent Role="Weights">
+              <PropertyRef Name="codemitzrach" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="RecepiesEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Measures" EntityType="Self.Measure" />
+          <EntitySet Name="products" EntityType="Self.product" />
+          <EntitySet Name="Weights" EntityType="Self.Weight" />
+          <AssociationSet Name="FK__Weights__kodmida__286302EC" Association="Self.FK__Weights__kodmida__286302EC">
+            <End Role="Measures" EntitySet="Measures" />
+            <End Role="Weights" EntitySet="Weights" />
+          </AssociationSet>
+          <AssociationSet Name="FK__Weights__codemit__276EDEB3" Association="Self.FK__Weights__codemit__276EDEB3">
+            <End Role="products" EntitySet="products" />
+            <End Role="Weights" EntitySet="Weights" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="RecepiesModelStoreContainer" CdmEntityContainer="RecepiesEntities">
+          <EntitySetMapping Name="Measures">
+            <EntityTypeMapping TypeName="RecepiesModel.Measure">
+              <MappingFragment StoreEntitySet="Measures">
+                <ScalarProperty Name="idmida" ColumnName="idmida" />
+                <ScalarProperty Name="kodmida" ColumnName="kodmida" />
+                <ScalarProperty Name="shmmida" ColumnName="shmmida" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="products">
+            <EntityTypeMapping TypeName="RecepiesModel.product">
+              <MappingFragment StoreEntitySet="products">
+                <ScalarProperty Name="idprod" ColumnName="idprod" />
+                <ScalarProperty Name="code" ColumnName="code" />
+                <ScalarProperty Name="smlmitrach" ColumnName="smlmitrach" />
+                <ScalarProperty Name="shmmitzrach" ColumnName="shmmitzrach" />
+                <ScalarProperty Name="protein" ColumnName="protein" />
+                <ScalarProperty Name="total_fat" ColumnName="total_fat" />
+                <ScalarProperty Name="food_energy" ColumnName="food_energy" />
+                <ScalarProperty Name="carbohydrates" ColumnName="carbohydrates" />
+                <ScalarProperty Name="total_dieatry_fiber" ColumnName="total_dieatry_fiber" />
+                <ScalarProperty Name="calcium" ColumnName="calcium" />
+                <ScalarProperty Name="iron" ColumnName="iron" />
+                <ScalarProperty Name="total_sugars" ColumnName="total_sugars" />
+                <ScalarProperty Name="trans_fatty_acids" ColumnName="trans_fatty_acids" />
+                <ScalarProperty Name="magnesium" ColumnName="magnesium" />
+                <ScalarProperty Name="phosphours" ColumnName="phosphours" />
+                <ScalarProperty Name="potassium" ColumnName="potassium" />
+                <ScalarProperty Name="sodium" ColumnName="sodium" />
+                <ScalarProperty Name="zinc" ColumnName="zinc" />
+                <ScalarProperty Name="cholesterol" ColumnName="cholesterol" />
+                <ScalarProperty Name="saturated_fat" ColumnName="saturated_fat" />
+                <ScalarProperty Name="vitamin_a_ui" ColumnName="vitamin_a_ui" />
+                <ScalarProperty Name="vitamin_e" ColumnName="vitamin_e" />
+                <ScalarProperty Name="vitamin_c" ColumnName="vitamin_c" />
+                <ScalarProperty Name="vitamin_a_re" ColumnName="vitamin_a_re" />
+                <ScalarProperty Name="vitamin_k" ColumnName="vitamin_k" />
+                <ScalarProperty Name="vitamin_b6" ColumnName="vitamin_b6" />
+                <ScalarProperty Name="vitamin_b12" ColumnName="vitamin_b12" />
+                <ScalarProperty Name="vitamin_d" ColumnName="vitamin_d" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Weights">
+            <EntityTypeMapping TypeName="RecepiesModel.Weight">
+              <MappingFragment StoreEntitySet="Weights">
+                <ScalarProperty Name="idmishkal" ColumnName="idmishkal" />
+                <ScalarProperty Name="codemitzrach" ColumnName="codemitzrach" />
+                <ScalarProperty Name="kodmidaa" ColumnName="kodmidaa" />
+                <ScalarProperty Name="mishkal" ColumnName="mishkal" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

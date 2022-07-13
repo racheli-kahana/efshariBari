@@ -1,0 +1,428 @@
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\obj\Debug\full_project.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\obj\Debug\full_project.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\full_project.dll.config
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\full_project.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\full_project.pdb
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\roslyn\csc.exe
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\roslyn\csc.exe.config
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\roslyn\csc.rsp
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\roslyn\csi.exe
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\roslyn\csi.exe.config
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\roslyn\csi.rsp
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\roslyn\System.AppContext.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\roslyn\System.Console.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\roslyn\System.IO.Compression.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\roslyn\System.Net.Http.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\roslyn\System.ValueTuple.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\roslyn\vbc.exe
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\roslyn\vbc.exe.config
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\roslyn\vbc.rsp
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\roslyn\VBCSCompiler.exe
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\Antlr3.Runtime.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\Bll.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\EntityFramework.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\Newtonsoft.Json.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\System.Net.Http.Formatting.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\System.Web.Helpers.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\System.Web.Http.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\System.Web.Http.WebHost.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\System.Web.Mvc.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\System.Web.Optimization.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\System.Web.Razor.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\System.Web.WebPages.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\System.Web.WebPages.Razor.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\WebGrease.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\Dal.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\Dto.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\AutoMapper.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\Bll.pdb
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\EntityFramework.xml
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\Newtonsoft.Json.xml
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\System.Net.Http.Formatting.xml
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\System.Web.Helpers.xml
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\System.Web.Http.xml
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\System.Web.Http.WebHost.xml
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\System.Web.Mvc.xml
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\System.Web.Optimization.xml
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\System.Web.Razor.xml
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\System.Web.WebPages.xml
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\System.Web.WebPages.Razor.xml
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\Antlr3.Runtime.pdb
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\Dal.pdb
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\Dal.dll.config
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\Dto.pdb
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\AutoMapper.xml
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\obj\Debug\full_project.csproj.CopyComplete
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\obj\Debug\full_project.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\obj\Debug\full_project.pdb
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\EntityFramework.SqlServer.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\Bll.dll.config
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\EntityFramework.SqlServer.xml
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\OcrData\Hebrew.ocrdata
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\IronOcr.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\IronOcr.xml
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\HebrewNLP.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\System.Web.Cors.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\System.Web.Http.Cors.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\System.Web.Http.Cors.xml
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\full_project\bin\Dto.dll.config
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\OcrData\Hebrew.ocrdata
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\full_project.dll.config
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\full_project.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\full_project.pdb
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\roslyn\csc.exe
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\roslyn\csc.exe.config
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\roslyn\csc.rsp
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\roslyn\csi.exe
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\roslyn\csi.exe.config
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\roslyn\csi.rsp
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\roslyn\System.AppContext.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\roslyn\System.Console.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\roslyn\System.IO.Compression.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\roslyn\System.Net.Http.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\roslyn\System.ValueTuple.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\roslyn\vbc.exe
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\roslyn\vbc.exe.config
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\roslyn\vbc.rsp
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\roslyn\VBCSCompiler.exe
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\Antlr3.Runtime.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\Bll.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\EntityFramework.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\EntityFramework.SqlServer.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\Newtonsoft.Json.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\System.Net.Http.Formatting.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\System.Web.Cors.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\System.Web.Helpers.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\System.Web.Http.Cors.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\System.Web.Http.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\System.Web.Http.WebHost.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\System.Web.Mvc.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\System.Web.Optimization.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\System.Web.Razor.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\System.Web.WebPages.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\System.Web.WebPages.Razor.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\WebGrease.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\Dal.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\Dto.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\IronOcr.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\HebrewNLP.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\AutoMapper.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\Bll.pdb
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\Bll.dll.config
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\EntityFramework.xml
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\EntityFramework.SqlServer.xml
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\Newtonsoft.Json.xml
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\System.Web.Http.Cors.xml
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\System.Net.Http.Formatting.xml
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\System.Web.Helpers.xml
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\System.Web.Http.xml
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\System.Web.Http.WebHost.xml
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\System.Web.Mvc.xml
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\System.Web.Optimization.xml
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\System.Web.Razor.xml
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\System.Web.WebPages.xml
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\System.Web.WebPages.Razor.xml
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\Antlr3.Runtime.pdb
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\Dal.pdb
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\Dal.dll.config
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\Dto.pdb
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\Dto.dll.config
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\IronOcr.xml
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\bin\AutoMapper.xml
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\obj\Debug\full_project.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\obj\Debug\full_project.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\obj\Debug\full_project.csproj.CopyComplete
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\obj\Debug\full_project.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\full_project\obj\Debug\full_project.pdb
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\OcrData\Hebrew.ocrdata
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\full_project.dll.config
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\full_project.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\full_project.pdb
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\roslyn\csc.exe
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\roslyn\csc.exe.config
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\roslyn\csc.rsp
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\roslyn\csi.exe
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\roslyn\csi.exe.config
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\roslyn\csi.rsp
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\roslyn\System.AppContext.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\roslyn\System.Console.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\roslyn\System.IO.Compression.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\roslyn\System.Net.Http.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\roslyn\System.ValueTuple.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\roslyn\vbc.exe
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\roslyn\vbc.exe.config
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\roslyn\vbc.rsp
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\roslyn\VBCSCompiler.exe
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\Antlr3.Runtime.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\Bll.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\EntityFramework.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\EntityFramework.SqlServer.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\Newtonsoft.Json.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\System.Net.Http.Formatting.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\System.Web.Cors.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\System.Web.Helpers.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\System.Web.Http.Cors.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\System.Web.Http.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\System.Web.Http.WebHost.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\System.Web.Mvc.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\System.Web.Optimization.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\System.Web.Razor.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\System.Web.WebPages.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\System.Web.WebPages.Razor.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\WebGrease.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\HebrewNLP.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\Dto.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\Dal.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\IronOcr.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\AutoMapper.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\Bll.pdb
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\Bll.dll.config
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\EntityFramework.xml
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\EntityFramework.SqlServer.xml
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\Newtonsoft.Json.xml
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\System.Web.Http.Cors.xml
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\System.Net.Http.Formatting.xml
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\System.Web.Helpers.xml
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\System.Web.Http.xml
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\System.Web.Http.WebHost.xml
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\System.Web.Mvc.xml
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\System.Web.Optimization.xml
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\System.Web.Razor.xml
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\System.Web.WebPages.xml
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\System.Web.WebPages.Razor.xml
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\Antlr3.Runtime.pdb
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\Dto.pdb
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\Dto.dll.config
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\Dal.pdb
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\Dal.dll.config
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\IronOcr.xml
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\bin\AutoMapper.xml
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\obj\Debug\full_project.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\obj\Debug\full_project.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\obj\Debug\full_project.csproj.CopyComplete
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\obj\Debug\full_project.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\full_project\obj\Debug\full_project.pdb
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\OcrData\Hebrew.ocrdata
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\full_project.dll.config
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\full_project.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\full_project.pdb
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\roslyn\csc.exe
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\roslyn\csc.exe.config
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\roslyn\csc.rsp
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\roslyn\csi.exe
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\roslyn\csi.exe.config
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\roslyn\csi.rsp
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\roslyn\System.AppContext.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\roslyn\System.Console.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\roslyn\System.IO.Compression.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\roslyn\System.Net.Http.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\roslyn\System.Net.Sockets.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\roslyn\System.ValueTuple.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\roslyn\vbc.exe
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\roslyn\vbc.exe.config
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\roslyn\vbc.rsp
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\roslyn\VBCSCompiler.exe
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\Antlr3.Runtime.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\Bll.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\EntityFramework.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\EntityFramework.SqlServer.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\Newtonsoft.Json.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\System.Net.Http.Formatting.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\System.Web.Cors.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\System.Web.Helpers.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\System.Web.Http.Cors.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\System.Web.Http.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\System.Web.Http.WebHost.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\System.Web.Mvc.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\System.Web.Optimization.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\System.Web.Razor.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\System.Web.WebPages.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\System.Web.WebPages.Razor.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\WebGrease.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\HebrewNLP.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\Dto.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\Dal.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\IronOcr.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\AutoMapper.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\Bll.pdb
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\Bll.dll.config
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\EntityFramework.xml
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\EntityFramework.SqlServer.xml
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\Newtonsoft.Json.xml
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\System.Web.Http.Cors.xml
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\System.Net.Http.Formatting.xml
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\System.Web.Helpers.xml
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\System.Web.Http.xml
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\System.Web.Http.WebHost.xml
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\System.Web.Mvc.xml
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\System.Web.Optimization.xml
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\System.Web.Razor.xml
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\System.Web.WebPages.xml
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\System.Web.WebPages.Razor.xml
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\Antlr3.Runtime.pdb
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\Dto.pdb
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\Dto.dll.config
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\Dal.pdb
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\Dal.dll.config
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\IronOcr.xml
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\bin\AutoMapper.xml
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\obj\Debug\full_project.csproj.AssemblyReference.cache
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\obj\Debug\full_project.csproj.CoreCompileInputs.cache
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\obj\Debug\full_project.csproj.CopyComplete
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\obj\Debug\full_project.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\full_project\obj\Debug\full_project.pdb

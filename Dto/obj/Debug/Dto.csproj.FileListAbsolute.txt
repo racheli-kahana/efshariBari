@@ -1,0 +1,95 @@
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\Dto\bin\Debug\Dto.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\Dto\bin\Debug\Dto.pdb
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\Dto\bin\Debug\AutoMapper.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\Dto\bin\Debug\Dal.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\Dto\bin\Debug\EntityFramework.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\Dto\bin\Debug\Dal.pdb
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\Dto\bin\Debug\Dal.dll.config
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\Dto\bin\Debug\AutoMapper.xml
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\Dto\bin\Debug\EntityFramework.xml
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\Dto\obj\Debug\Dto.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\Dto\obj\Debug\Dto.csproj.CopyComplete
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\Dto\obj\Debug\Dto.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\Dto\obj\Debug\Dto.pdb
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\Dto\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\Dto\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\Dto\bin\Debug\System.Web.Cors.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\Dto\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\Dto\bin\Debug\System.Web.Http.dll
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\Dto\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\Dto\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\Dto\bin\Debug\System.Web.Http.xml
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\Dto\bin\Debug\System.Web.Http.Cors.xml
+C:\Users\user1\Desktop\פרויקט גמר\webApi\full_project\Dto\bin\Debug\Dto.dll.config
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\Dto\bin\Debug\Dto.dll.config
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\Dto\bin\Debug\Dto.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\Dto\bin\Debug\Dto.pdb
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\Dto\bin\Debug\AutoMapper.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\Dto\bin\Debug\Dal.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\Dto\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\Dto\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\Dto\bin\Debug\System.Web.Cors.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\Dto\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\Dto\bin\Debug\System.Web.Http.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\Dto\bin\Debug\EntityFramework.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\Dto\bin\Debug\Dal.pdb
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\Dto\bin\Debug\Dal.dll.config
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\Dto\bin\Debug\AutoMapper.xml
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\Dto\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\Dto\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\Dto\bin\Debug\System.Web.Http.xml
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\Dto\bin\Debug\System.Web.Http.Cors.xml
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\Dto\bin\Debug\EntityFramework.xml
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\Dto\obj\Debug\Dto.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\Dto\obj\Debug\Dto.csproj.CopyComplete
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\Dto\obj\Debug\Dto.dll
+C:\Users\user1\Desktop\‏‏פרויקט גמר - עותק\webApi\full_project\Dto\obj\Debug\Dto.pdb
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\Dto\bin\Debug\Dto.dll.config
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\Dto\bin\Debug\Dto.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\Dto\bin\Debug\Dto.pdb
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\Dto\bin\Debug\AutoMapper.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\Dto\bin\Debug\Dal.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\Dto\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\Dto\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\Dto\bin\Debug\System.Web.Cors.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\Dto\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\Dto\bin\Debug\System.Web.Http.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\Dto\bin\Debug\EntityFramework.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\Dto\bin\Debug\Dal.pdb
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\Dto\bin\Debug\Dal.dll.config
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\Dto\bin\Debug\AutoMapper.xml
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\Dto\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\Dto\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\Dto\bin\Debug\System.Web.Http.xml
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\Dto\bin\Debug\System.Web.Http.Cors.xml
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\Dto\bin\Debug\EntityFramework.xml
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\Dto\obj\Debug\Dto.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\Dto\obj\Debug\Dto.csproj.CopyComplete
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\Dto\obj\Debug\Dto.dll
+C:\Users\user1\Desktop\‏‏‏‏פרויקט גמר - עותק - עותק (2)\webApi\full_project\Dto\obj\Debug\Dto.pdb
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\Dto\bin\Debug\Dto.dll.config
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\Dto\bin\Debug\Dto.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\Dto\bin\Debug\Dto.pdb
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\Dto\bin\Debug\Dal.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\Dto\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\Dto\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\Dto\bin\Debug\System.Web.Cors.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\Dto\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\Dto\bin\Debug\System.Web.Http.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\Dto\bin\Debug\EntityFramework.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\Dto\bin\Debug\Dal.pdb
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\Dto\bin\Debug\Dal.dll.config
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\Dto\bin\Debug\AutoMapper.xml
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\Dto\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\Dto\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\Dto\bin\Debug\System.Web.Http.xml
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\Dto\bin\Debug\System.Web.Http.Cors.xml
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\Dto\bin\Debug\EntityFramework.xml
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\Dto\obj\Debug\Dto.csproj.AssemblyReference.cache
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\Dto\obj\Debug\Dto.csproj.CopyComplete
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\Dto\obj\Debug\Dto.dll
+C:\Users\rachel\Desktop\פרויקט גמר שושי\webApi\full_project\Dto\obj\Debug\Dto.pdb

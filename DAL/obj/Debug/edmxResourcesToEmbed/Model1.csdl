@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="RecepiesModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Measure">
+    <Key>
+      <PropertyRef Name="kodmida" />
+    </Key>
+    <Property Name="idmida" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="kodmida" Type="Int32" Nullable="false" />
+    <Property Name="shmmida" Type="String" MaxLength="40" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Weights" Relationship="Self.FK__Weights__kodmida__286302EC" FromRole="Measures" ToRole="Weights" />
+  </EntityType>
+  <EntityType Name="product">
+    <Key>
+      <PropertyRef Name="code" />
+    </Key>
+    <Property Name="idprod" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="code" Type="Int32" Nullable="false" />
+    <Property Name="smlmitrach" Type="Int32" />
+    <Property Name="shmmitzrach" Type="String" MaxLength="60" FixedLength="false" Unicode="false" />
+    <Property Name="protein" Type="Double" />
+    <Property Name="total_fat" Type="Double" />
+    <Property Name="food_energy" Type="Double" />
+    <Property Name="carbohydrates" Type="Double" />
+    <Property Name="total_dieatry_fiber" Type="Double" />
+    <Property Name="calcium" Type="Double" />
+    <Property Name="iron" Type="Double" />
+    <Property Name="total_sugars" Type="Double" />
+    <Property Name="trans_fatty_acids" Type="Double" />
+    <Property Name="magnesium" Type="Double" />
+    <Property Name="phosphours" Type="Double" />
+    <Property Name="potassium" Type="Double" />
+    <Property Name="sodium" Type="Double" />
+    <Property Name="zinc" Type="Double" />
+    <Property Name="cholesterol" Type="Double" />
+    <Property Name="saturated_fat" Type="Double" />
+    <Property Name="vitamin_a_ui" Type="Double" />
+    <Property Name="vitamin_e" Type="Double" />
+    <Property Name="vitamin_c" Type="Double" />
+    <Property Name="vitamin_a_re" Type="Double" />
+    <Property Name="vitamin_k" Type="Double" />
+    <Property Name="vitamin_b6" Type="Double" />
+    <Property Name="vitamin_b12" Type="Double" />
+    <Property Name="vitamin_d" Type="Double" />
+    <NavigationProperty Name="Weights" Relationship="Self.FK__Weights__codemit__276EDEB3" FromRole="products" ToRole="Weights" />
+  </EntityType>
+  <EntityType Name="Weight">
+    <Key>
+      <PropertyRef Name="idmishkal" />
+    </Key>
+    <Property Name="idmishkal" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="codemitzrach" Type="Int32" />
+    <Property Name="kodmidaa" Type="Int32" />
+    <Property Name="mishkal" Type="Double" />
+    <NavigationProperty Name="Measure" Relationship="Self.FK__Weights__kodmida__286302EC" FromRole="Weights" ToRole="Measures" />
+    <NavigationProperty Name="product" Relationship="Self.FK__Weights__codemit__276EDEB3" FromRole="Weights" ToRole="products" />
+  </EntityType>
+  <Association Name="FK__Weights__kodmida__286302EC">
+    <End Role="Measures" Type="Self.Measure" Multiplicity="0..1" />
+    <End Role="Weights" Type="Self.Weight" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Measures">
+        <PropertyRef Name="kodmida" />
+      </Principal>
+      <Dependent Role="Weights">
+        <PropertyRef Name="kodmidaa" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Weights__codemit__276EDEB3">
+    <End Role="products" Type="Self.product" Multiplicity="0..1" />
+    <End Role="Weights" Type="Self.Weight" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="products">
+        <PropertyRef Name="code" />
+      </Principal>
+      <Dependent Role="Weights">
+        <PropertyRef Name="codemitzrach" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="RecepiesEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Measures" EntityType="Self.Measure" />
+    <EntitySet Name="products" EntityType="Self.product" />
+    <EntitySet Name="Weights" EntityType="Self.Weight" />
+    <AssociationSet Name="FK__Weights__kodmida__286302EC" Association="Self.FK__Weights__kodmida__286302EC">
+      <End Role="Measures" EntitySet="Measures" />
+      <End Role="Weights" EntitySet="Weights" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Weights__codemit__276EDEB3" Association="Self.FK__Weights__codemit__276EDEB3">
+      <End Role="products" EntitySet="products" />
+      <End Role="Weights" EntitySet="Weights" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
